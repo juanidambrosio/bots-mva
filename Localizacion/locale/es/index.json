@@ -1,0 +1,8 @@
+{
+    "preguntar_locale": "Elija un locale",
+    "bienvenido": "Bienvenido!",
+    "locale_invalido": "Lo siento, el valor elegido no es válido",
+    "preguntar_nombre": "¿Cómo te llamas?",
+    "saludar_nombre": "Hola ",
+    "pregunta_pizza": "¿Te gusta la pizza?"
+}

@@ -1,0 +1,7 @@
+{
+    "preguntar_locale": "Choose a locale",
+    "bienvenido": "Welcome!",
+    "locale_invalido": "Sorry, the chosen value is not valid.",
+    "preguntar_nombre": "What's your name?",
+    "saludar_nombre": "Hello "
+}
