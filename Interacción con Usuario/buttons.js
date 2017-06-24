@@ -36,7 +36,7 @@ bot.dialog('/', [
     },
     function (session, results) {
         session.dialogData.preferencia = results.response.entity;
-        builder.Prompts.confirm(session, '¿Quieres ver un resumen?', { listStyle: builder.ListStyle.button });
+        builder.Prompts.confirm(session, '¿Quieres ver un resumen?', 'Si|No', { listStyle: builder.ListStyle.button });
     },
     function (session, results) {
         if (results.response) {
